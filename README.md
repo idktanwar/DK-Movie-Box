@@ -28,4 +28,4 @@ To retrieve a key follow instructions https://developers.themoviedb.org/3/gettin
 - Gtihub [@Dinesh](https://github.com/idktanwar/)
 
 ## License
-@copyright dk@2021
+@copyright 2021 idktanwar. All Rigths Reserved.
